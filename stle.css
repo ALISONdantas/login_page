@@ -81,11 +81,13 @@ body{
     color:rgba(240, 248, 255, 0.43);
     margin: 0;
     font-size: 12pt;
+    
 }
 
 .card_login > p:hover{
     color: #ffffff;
     transform: rotate(0) scale(1.05);
+    cursor: pointer;
 }
 
 .textfield{
