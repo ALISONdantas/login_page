@@ -141,8 +141,23 @@ body{
     color: #ffffff;
 }
 
-.redes_sociais > p{
-    color: #f8fffc;
-    margin: 0;
-    font-size: 12pt;
+.redes_sociais{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
 }
+
+.redes_sociais > img{
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+    cursor: pointer;
+    margin-top: 0px;
+}
+
+.ou{
+    color:#ffffff99;
+    padding-top: 20px;
+}
+
