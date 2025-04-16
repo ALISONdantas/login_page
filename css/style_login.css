@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    background-image: url("imagem.jpg");
+    background-image: url("../imagens/imagem.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -29,7 +29,7 @@ body{
 .logo{
     width: 60%;
     height: 100%;
-    background-image: url("logo.png");
+    background-image: url("../imagens/logo.png");
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
